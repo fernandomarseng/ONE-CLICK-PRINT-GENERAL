@@ -55,8 +55,7 @@ This project prints all supported files from one folder (non-recursive), either:
 
 To remove it later, run `Uninstall Context Menu (Show More Options).bat`.
 
-### Option E: Manual Registry Editor setup (no installer script)
-
+### Option E: Manual Registry Editor setup (no installer script, Recommended)
 If you prefer to add the right-click entry manually:
 
 1. Press `Win + R`, type `regedit`, press Enter.
